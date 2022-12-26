@@ -10,3 +10,4 @@ Github Repository: https://github.com/aramic11/express-notetaker
 Live Application Link: https://notetaker6060.herokuapp.com/notes
 
 ## Screenshot
+![Screen Shot 2022-12-25 at 7 19 49 PM](https://user-images.githubusercontent.com/113563367/209486673-ea174a8d-d14e-43c6-a9b1-b37a15ff7f12.png)
